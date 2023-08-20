@@ -10,4 +10,4 @@ Finally it convers the string from english to local language based on location
 
 Currently It supports English, Marathi, Gujarati, Bengali and Tamil Language for testing
 
-![Alt text](/relative/path/to/1.png?raw=true "Optional Title")
+![Alt text](1.png?raw=true)
