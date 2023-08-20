@@ -11,9 +11,9 @@ Finally it convers the string from english to local language based on location
 Currently It supports English, Marathi, Gujarati, Bengali and Tamil Language for testing
 
 <div align="center">
-    <img src="1.png" width="200px"</img> 
-    <img src="2.png" width="200px"</img> 
-    <img src="3.png" width="200px"</img> 
-    <img src="4.png" width="200px"</img> 
-    <img src="5.png" width="200px"</img> 
+    <img src="1.png" width="150px"</img> 
+    <img src="2.png" width="150px"</img> 
+    <img src="3.png" width="150px"</img> 
+    <img src="4.png" width="150px"</img> 
+    <img src="5.png" width="150px"</img> 
 </div>
