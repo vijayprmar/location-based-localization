@@ -10,4 +10,7 @@ Finally it convers the string from english to local language based on location
 
 Currently It supports English, Marathi, Gujarati, Bengali and Tamil Language for testing
 
-![Alt text](1.png?raw=true)
+#![Alt text](1.png?raw=true)
+<div align="center">
+    <img src="1.png" width="400px"</img> 
+</div>
